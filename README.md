@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [APhysicsWeb](https://github.com/quintindunn/APPhysicsWeb), a website that has tools for AP Physics 1, and [LapsePy](https://github.com/quintindunn/LapsePy) an API wrapper for the Lapse social media app.
 - 🦀 I want to learn Rust
-- 🕥 I've always loved coding since the age of around 8, I've now been a python developer for around 5 years. I'm fluent in Python, Javascript, and Java. I'm also
+- 🕥 I've always loved coding since the age of around 8, I've now been a python developer for around 5 years. I'm fluent in Python, Javascript, and Java.
 - 📫 Reach me on [discord](https://discordapp.com/users/309465127860568067) or email me at [dunnquintin07@gmail.com](mailto:dunnquintin07@gmail.com)
 - 🏫 I'm currently in high School, I've taken and am taking a variety of AP classes including
   - AP Biology
