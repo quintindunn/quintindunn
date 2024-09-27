@@ -11,13 +11,19 @@
   - AP Computer Science A
   - AP Physics 1
 
+#### My favorite projects
+ - [StringArtRobot](https://github.com/quintindunn/StringArtRobot) - Design for a Robot + Firmware for the automated generation of string art.
+ - [OWS](https://github.com/quintindunn/OWS) - An open source web crawler, which follows robots.txt specification written in Python.
+ - [ShedLock](https://github.com/quintindunn/ShedLock) - The design for feature rich smart lock built for my workshop.
+ - [LapsePy](https://github.com/quintindunn/lapsepy) - An unoffical API wrapper for the social media app Lapse with a ton of functionality.
+
 #### Other Adventures:
 I have a major interest both within the coding ecosystem and outside of it, though most of my interests rest in one form of engineering or another. While my other projects havent been documented nearly as well and in most cases not at all.
 
 Some of my most recent projects include:
-- [A lock for my workshop](https://github.com/quintindunn/ShedLock)
-- A HHO generator
-- Tesla Coil
+- [StringArtRobot](https://github.com/quintindunn/StringArtRobot) - Design for a Robot + Firmware for the automated generation of string art.
+- A new more compact HHO generater with better thermals, & overall energy efficency.
+- A Musical Tesla Coil
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quintindunn&theme=onedark&layout=compact">
