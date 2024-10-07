@@ -2,7 +2,7 @@
 
 #### My name is Quintin Dunn, I'm a self-taught developer, practicing for over 8 years now. I've always loved coding since I was around 8 years old, I've now been a python developer for around 5 years. I'm fluent in Python, Javascript, and Java. I also have a decent amount of practice in C#, Lua, and C/C++
 
-- 🔭 I'm currently working on [Open Web Search](https://github.com/quintindunn/OWS) a open source web crawler with page ranking, and searching.
+- 🔭 I'm currently working on [StringArtRobot](https://github.com/quintindunn/stringArtRobot/) a robot to convert a picture into string art.
 - 🕥 I've always loved coding since the age of around 8, I've now been a python developer for around 5 years. I'm fluent in Python, Javascript, and Java.
 - 📫 Reach me by email at [dunnquintin07@gmail.com](mailto:dunnquintin07@gmail.com)
 - 🏫 I'm currently in high School, I've taken and am taking a variety of AP classes including
