@@ -12,6 +12,7 @@
   - AP Computer Science A
   - AP Physics 1
   - AP Statistics
+  - AP Macro Economics
 
 #### My favorite projects
  - [StringArtRobot](https://github.com/quintindunn/StringArtRobot) - Design files + Firmware a robot for automated fabrication of string art.
