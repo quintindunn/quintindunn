@@ -1,11 +1,10 @@
-### Hi there 👋
-
 #### My name is Quintin Dunn, I'm a self-taught developer, practicing for over 8 years now. I've loved coding since I was around 8 years old, I've now been a developer specializing in Python for around 5 years. I'm fluent in Python, JavaScript, and Java. Furthermore, I have practice in C/C++, C#, and Lua.
+
+## Check out my [Portfolio](https://portfolio.quintindev.com)!
 
 - 🔭 I'm currently working on `JEWAL`, a data collection, analytics tool, and OSINT tool.
 - 🕥 I've always loved coding since the age of around 8, and I've now been a Python developer for around 5 years. I'm fluent in Python, Javascript, and Java.
 - 📫 Reach me by email at [dunnquintin07@gmail.com](mailto:dunnquintin07@gmail.com)
-- 📃 Check out my [portfolio](https://portfolio.quintindev.com/)!
 - 🏫 I'm currently in high school, I've taken and am taking a variety of AP classes including
   - AP Biology
   - AP Chemistry
