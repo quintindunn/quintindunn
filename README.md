@@ -5,13 +5,7 @@
 - 🔭 I'm currently working on `JEWAL`, a data collection, analytics tool, and OSINT tool.
 - 🕥 I've always loved coding since the age of around 8, and I've now been a Python developer for around 5 years. I'm fluent in Python, Javascript, and Java.
 - 📫 Reach me by email at [dunnquintin07@gmail.com](mailto:dunnquintin07@gmail.com)
-- 🏫 I'm currently in high school, I've taken and am taking a variety of AP classes including
-  - AP Biology
-  - AP Chemistry
-  - AP Computer Science A
-  - AP Physics 1
-  - AP Statistics
-  - AP Macro Economics
+- 🏫 I'm going into university at Suny Oswego, 
 
 #### My favorite projects
  - [StringArtRobot](https://github.com/quintindunn/StringArtRobot) - Design files + Firmware a robot for automated fabrication of string art.
