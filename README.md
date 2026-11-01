@@ -8,7 +8,7 @@
 
 #### My favorite projects
  - [StringArtRobot](https://github.com/quintindunn/StringArtRobot) - Design files + Firmware a robot for automated fabrication of string art.
- - [OWS](https://github.com/quintindunn/OWS) - An open-source web crawler, which follows robots.txt specification written in Python.
+- [QuickServe](https://github.com/quintindunn/quickserve) - A cross-platform, user-friendly, and modular interface for home hosting game servers. 
  - [ShedLock](https://github.com/quintindunn/ShedLock) - The design for a feature-rich smart lock built for my workshop.
  - [LapsePy](https://github.com/quintindunn/lapsepy) - An unofficial API wrapper for the social media app Lapse with a ton of functionality.
 
